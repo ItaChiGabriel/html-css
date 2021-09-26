@@ -1,0 +1,12 @@
+/* Vamos Entender, no html tem o ID e CLASS, no Css o ID e #, e o CLASS e . ok?*/
+
+#exemplo{  /* Como eu falei ali em cima, como no html botei id no h1, no css e #*/
+    position: absolute; /**/
+    color: red; /*Color = cor*/
+    margin: auto; /*margin = margem*/
+    padding: auto; /*Padding = preenchimento*/
+
+}
+
+
+/* Entederam o CSS? */
